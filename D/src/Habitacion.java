@@ -1,0 +1,33 @@
+public class Habitacion {
+    private long id;
+    private String nombre;
+    private long metrosCuadrados;
+
+    public Habitacion() {
+    }
+
+    public Habitacion(long id, String nombre, long metrosCuadrados) {
+        this.id = id;
+        this.nombre = nombre;
+        this.metrosCuadrados = metrosCuadrados;
+    }
+
+    public long getId() {
+        return id;
+    }
+    public void setId(long id) {
+        this.id = id;
+    }
+    public String getNombre() {
+        return nombre;
+    }
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
+    public long getMetrosCuadrados() {
+        return metrosCuadrados;
+    }
+    public void setMetrosCuadrados(long metrosCuadrados) {
+        this.metrosCuadrados = metrosCuadrados;
+    }
+}
