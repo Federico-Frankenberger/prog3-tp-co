@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5d6cce7-5e69-4e40-a0be-1d57013c6c31" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Barrio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Habitacion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vivienda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../A/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../A/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../B/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../B/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../B/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +43,8 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/guada/prog3-tp-co/D",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/fafra/OneDrive/Escritorio/Entrega/prog3-tp-co/D",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -59,8 +57,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.23774.435" />
-        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-IU-251.23774.435" />
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
       </set>
     </attachedChunks>
   </component>
@@ -75,6 +73,7 @@
       <workItem from="1755046859164" duration="5000" />
       <workItem from="1755112982242" duration="1765000" />
       <workItem from="1755123344873" duration="1797000" />
+      <workItem from="1755178931090" duration="50000" />
     </task>
     <servers />
   </component>
